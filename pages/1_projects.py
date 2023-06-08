@@ -14,7 +14,7 @@ st.image(img1,use_column_width=False)
 st.title("Prosper Loan Status Prediction using Machine Learning")
     
 ############
-model = pickle.load(open('D:\Data Science_Personal_Projects\Internship Projects\Main Project\Prosper-Loan-P2P-Lending-/Prosper_Loan.pkl', 'rb'))
+model = pickle.load(open('pages/Prosper_Loan.pkl', 'rb'))
 
 ############
 def main():
