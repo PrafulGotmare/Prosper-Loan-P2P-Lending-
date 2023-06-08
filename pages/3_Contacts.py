@@ -21,4 +21,4 @@ def local_css(file_name):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
-local_css("D:\Data Science_Personal_Projects\Internship Projects\Main Project\pages\style/style.css")
+local_css("pages/style/style.css")
