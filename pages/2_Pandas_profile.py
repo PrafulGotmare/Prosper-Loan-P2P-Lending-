@@ -4,7 +4,7 @@ import streamlit as st
 
 from streamlit_pandas_profiling import st_profile_report
 
-df = pd.read_csv("D:\Data Science_Personal_Projects\Internship Projects\Main Project/prosperLoanData.csv")
+df = pd.read_csv("prosperLoanData.csv")
 # pr = df.profile_report()
 
 # st_profile_report(pr)
