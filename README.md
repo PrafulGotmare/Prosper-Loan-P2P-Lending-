@@ -2,8 +2,7 @@
 
 ## Problem statement 
 
-The problem statement chosen for this project is to predict a lending platform connecting borrowers with investors, wants to improve their loan approval process and minimize the risk of loan defaults. They aim to develop a machine learning model that can accurately predict whether a borrower is likely to default on their loan.
-
+Aim is to develop a machine learning model that can accurately predict whether a borrower is likely to default on their loan.
 The project's objective is to create a predictive model that can assess the creditworthiness of loan applicants and provide insights into the probability of default. By identifying potential defaulters in advance, Prosper can take appropriate measures to mitigate risks and make informed decisions regarding loan approvals, interest rates, and credit limits.
 
 Ultimately, the Prosper Loan Defaulter Prediction project aims to assist Prosper in making data-driven decisions to minimize loan defaults, reduce financial risks, attract more investors, and maintain a healthy lending marketplace.
@@ -66,3 +65,10 @@ https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/cada8
 
 https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/94efe284-7c40-4f3d-b3d2-1dcc3eb342d4
 
+## Contributers
+
+- **Praful Gotmare**
+- **Ahmed Salah Herez**
+- **Sunanda Mahanta**
+- **Rithu A Mantagani**
+- **Okafor Sylvester Chukwuka**
