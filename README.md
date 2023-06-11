@@ -65,10 +65,10 @@ https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/cada8
 
 https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/94efe284-7c40-4f3d-b3d2-1dcc3eb342d4
 
-## Contributors
+## Project Contributors
 
-- **Praful Gotmare**
-- **Ahmed Salah Herez**
+- **Praful Gotmare (Team Lead)**
+- **Ahmed Salah Herez (Co-Team Lead)**
 - **Sunanda Mahanta**
 - **Rithu A Mantagani**
 - **Okafor Sylvester Chukwuka**
