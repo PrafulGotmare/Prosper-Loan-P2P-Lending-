@@ -1,6 +1,6 @@
-# Prosper Loan Defaulter P2P Lending 
+# Prosper Loan Defaulter P2P Lending ![image](https://icons8.com/icon/btkNqs06kz7P/loan)
 
-## Problem statement 
+## ![image](https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/ebad1bd3-2479-491d-81ae-ec7724e083c5) Problem statement 
 
 The problem statement chosen for this project is to predict a lending platform connecting borrowers with investors, wants to improve their loan approval process and minimize the risk of loan defaults. They aim to develop a machine learning model that can accurately predict whether a borrower is likely to default on their loan.
 
@@ -43,7 +43,21 @@ By thoroughly evaluating the models, selecting the most accurate and reliable on
 The application provides a interface where users can input relevant information about loan applicants, such as borrower attributes (ProsperScore, BorrowerAPR, CurrentDelinquencies, employment status, etc.). Upon submission of the form, the application sends the input data to the model for prediction. The Streamlit application then processes the input data and generates real-time predictions based on the trained model.
 **Link** https://prosperloanprediction.streamlit.app/
 
-## Videos
+## https://icons8.com/icon/JQDgjXVPpnd1/monitor Installation
+### https://icons8.com/icon/XwzkraQQ32YR/tools requirements
+
+- **Python 3.10+**
+- **Visual Studio Code**
+- **Anaconda**
+- **Pandas**
+- **Numpy**
+- **Seaborn**
+- **Scikit-learn**
+- **Streamlit**
+- **Git**
+
+
+## https://loading.io/icon/5xhejr Videos
 - **Loan Prediction Defaulted:**
 
 https://github.com/PrafulGotmare/Prosper-Loan-P2P-Lending-/assets/81294533/cada8634-0416-481a-b265-58a968f68f94
