@@ -40,7 +40,7 @@ in order to test model accuracy i have used algorithms and check their accracy, 
 By thoroughly evaluating the models, selecting the most accurate and reliable one, and considering business requirements, the Prosper Loan Defaulter Prediction project aims to deploy a robust and effective model that can predict loan defaulters with high precision and recall, thereby assisting in risk management and decision-making for loan approvals.
 - **Project Deployment:** In the Prosper Loan Defaulter Prediction project, the deployment of the predictive model is achieved using Streamlit, a Python library for building interactive web applications. The purpose of deploying the model with Streamlit is to create a user-friendly interface that allows stakeholders to access and utilize the loan defaulter prediction functionality.
 The application provides a interface where users can input relevant information about loan applicants, such as borrower attributes (ProsperScore, BorrowerAPR, CurrentDelinquencies, employment status, etc.). Upon submission of the form, the application sends the input data to the model for prediction. The Streamlit application then processes the input data and generates real-time predictions based on the trained model.
-**Link** https://prosperloanprediction.streamlit.app/
+<br>**Link** https://prosperloanprediction.streamlit.app/
 
 ## Installation
 ### requirements
